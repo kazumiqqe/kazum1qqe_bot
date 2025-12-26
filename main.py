@@ -3,7 +3,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from aiogram.filters import Command
 import asyncio
 
-API_TOKEN = "8474331460:AAG7hnxWCnNK-HBFTlQeTe7PHsFTk5KEIMM"
+API_TOKEN = ""
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
@@ -184,3 +184,4 @@ async def main():
 
 
 asyncio.run(main())
+
