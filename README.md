@@ -1,6 +1,4 @@
-in English:
-
-Telegram Fitness Bot
+Telegram Fitness Bot:
 A telegram bot for training assistance with exercise programs and music playlists for the gym.
 
 Description:
