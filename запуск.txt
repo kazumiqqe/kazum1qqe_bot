@@ -1,0 +1,2 @@
+python "D:\prog\tg\bot_gym\main.py"
+(в cmd)
